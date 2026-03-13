@@ -1,0 +1,13 @@
+name = "Viva Minecraft Server"
+author = "Miguel"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "09816f8b1c319ca501566bf8f359978b035b9f1dd09f2634d605cdec1691a785"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"
