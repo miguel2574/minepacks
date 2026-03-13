@@ -1,0 +1,13 @@
+name = "Squish"
+filename = "squish-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00c51c14ee1823f276e8f5bbe21bac9500e98e2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7370997
+project-id = 1383770

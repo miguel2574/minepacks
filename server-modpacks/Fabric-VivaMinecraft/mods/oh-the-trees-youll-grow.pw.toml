@@ -1,0 +1,13 @@
+name = "Oh The Trees You'll Grow"
+filename = "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9189abe91e4fca167c78be53e4f447245f74fa2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7491127
+project-id = 962544
