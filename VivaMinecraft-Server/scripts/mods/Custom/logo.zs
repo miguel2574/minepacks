@@ -1,1 +1,0 @@
-craftingTable.remove(<item:modrinth_logo_mod:modrinth_logo>);
